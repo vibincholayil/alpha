@@ -13,3 +13,4 @@ The objective of this task is to share hands-on understanding with Git by perfor
 ## Task 1
 
 Create a GitHub repo named **Alpha**
+![](images/01.png)
